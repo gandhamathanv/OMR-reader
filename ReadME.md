@@ -1,4 +1,4 @@
-
+<!-- 
 # Optical Mark Recognition OPENCV
 
 
@@ -54,3 +54,4 @@ https://youtu.be/w_krOCBk1DE
 
 Robot Arm Arduino Tutorial | Gesture Controlled:
 https://youtu.be/gmz7eOB-tCg
+ -->
